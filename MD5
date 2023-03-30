@@ -1,0 +1,12 @@
+37765742598c3bc7359110c77034e830 *DESCRIPTION
+0013a27a69c563e76815ad55e0ab7ad2 *LICENSE
+4c08e39d9dfe6bcddbb4f4f6305d4a24 *NAMESPACE
+e4377f207fea8e02f8ccacf2e70a0a93 *NEWS.md
+0574c9f8f11abec82b161900d6adebc7 *R/RcppExports.R
+6185857182295844dd9da0830444d30d *R/rrandvec.R
+6ebb3bcaf61f2e31ef590bc50e0d9a2b *R/zzz.R
+84b88ae87764335d3b517cefe78405cf *man/rrandvec.Rd
+6dd46d681ff10a036713ebd3a594e03b *src/RcppExports.cpp
+270db813412fccbfa649aa14ec4b0769 *src/rrandvec.cpp
+df12a170ecf981f573ec0e87ca5bc547 *tests/testthat.R
+125b3a0f8dd9b40efba04e72dceae98d *tests/testthat/test_rpv.R
